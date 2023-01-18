@@ -3,6 +3,9 @@ Race, Income, and Age 65+ on Covid in NJ Counties
 
 01-17-2023
 
+                  <img width="500" alt="COVID19 DNA" src="https://user-images.githubusercontent.com/121705109/213087356-3ed3f996-5c45-4afc-b941-3786c38a5a30.png">
+
+
 
 
 ## 1. SUMMARY
