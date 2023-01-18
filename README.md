@@ -61,7 +61,16 @@ Unlike age 65+ and per capita income, race was a more interesting indicator. I f
 * Overall, Cape May with the highest proportion of age 65+ had one of the lowest covid deaths. On the other hand, it had the highest death from all causes. Focus on a place like Cape May should be on what is causing higher death among the aging population, different from respiratory diseases such as covid-19.
 
 
-![Dashboard](https://user-images.githubusercontent.com/121705109/213087256-f6f9eb9b-7d58-4a72-aba0-7d756d3a72b3.png)
+
+
+
+![Dashboard 1 (5) (1)](https://user-images.githubusercontent.com/121705109/213089258-32ff589b-95eb-4bc7-950c-688b3eb37831.png)
+
+
+![Dashboard 1 (4) (2)](https://user-images.githubusercontent.com/121705109/213089349-06c16e7d-cd63-45be-8fb7-c5dc342650a1.png)
+
+
+![Dashboard 1 (3) (1)](https://user-images.githubusercontent.com/121705109/213089375-96deeb41-49c8-4602-9e14-d3b1cbda4fc7.png)
 
 
 Thank you!
