@@ -6,6 +6,7 @@ Race, Income, and Age 65+ on Covid in NJ Counties
 
 
 <img width="500" alt="COVID19 DNA" src="https://user-images.githubusercontent.com/121705109/213087446-47f2c149-80a5-4818-8471-7a910effbb49.png">
+![covid](https://user-images.githubusercontent.com/121705109/213087473-4c1ea1f6-ba7f-4188-b9ad-b58195944d79.jpg)
 
 
 
