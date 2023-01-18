@@ -81,9 +81,10 @@ I was interested in knowing how the rate of the Covid-19 pandemic differed acros
 
 
 
+![Dashboard 1 (2) (1)](https://user-images.githubusercontent.com/121705109/213235208-b673ba2e-f119-4f86-afd6-55607b5daa20.png)
 
 
-![Dashboard 1 (4) (1)](https://user-images.githubusercontent.com/121705109/213234744-ad5a6327-3b2d-4992-9d88-71444de77e58.png)
+
 
 
 * Yes, income and race have a stronger effect on the rate and incidence of covid-19 than age 65+.
