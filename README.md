@@ -27,6 +27,8 @@ Hypothesis:
 * Yes, income and race have a stronger effect on the rate and incidence of covid-19 thank age 65+.
 
 
+
+
 ## 2. DATA AND PREPROCESSING 
 I downloaded the data from these sources:
 * [NJ Demographic data (2019 and 2020)](https://rutgers.app.box.com/s/wonyb2q2rriocqo0o628f8vdtpw8ha6d)
@@ -34,25 +36,24 @@ I downloaded the data from these sources:
 
  
 
-For the demographic data, I compiled them in one single sheet and cleaned the data, formatted the cells, and cleaned the data using excel.
-For the covid-19 data, I cleaned and formatted the cells and remove unnecessary columns from it. I then imported the dataset into bigquery for SQL analysis (See analysis section for script).
+For the demographic data, I compiled them into one single sheet and cleaned the data, formatted the cells, and cleaned the data using excel.
+For the covid-19 data, I cleaned and formatted the cells and remove unnecessary columns from it. I then imported the dataset into bigquery for SQL analysis.
+
+
 
 
 ## 2. ANALYSIS AND FINDINGS
 
-I was interested in knowing how the rate of the Covid-19 pandemic differed across the counties in New Jersey, and how that compared with death from other causes. 
+I was interested in knowing how the rate of the Covid-19 pandemic differed across the counties in New Jersey, and how that compared with death from other causes. After the analysis, this is what I found:  
 
 * Yes, the rate of death resulting from other diseases is different from the rate of covid-19 related deaths across New Jersey counties. 
 
-    1. I found that indeed, there is differences between death from covid-19 and death from all other sources, however this was true for only some counties. For               the other counties, the differences were subtle.
-
-
+    1. I found that indeed, there are differences between death from covid-19 and death from all other sources, however this was true for only some counties. For               the other counties, the differences were subtle. Specifically, counties such as Bergen, Essex. Passaic, Hudson, Morris and Union are the counties with notably         higher covid deaths than death from other causes. Cape May, 
 
 
 
 
 ![Dashboard 1 (5) (1)](https://user-images.githubusercontent.com/121705109/213210640-8bab01b6-ea1a-4260-89b2-55cc118af27c.png)
-
 
 
 
@@ -66,8 +67,20 @@ Unlike age 65+ and per capita income, race was a more interesting indicator. I f
 
 
 
+
+
+![Dashboard 1 (4) (2)](https://user-images.githubusercontent.com/121705109/213219309-1922f64f-75cd-442c-a7b6-32e6a9d34f76.png)
+
+
+
+
+
+
 * Yes, income and race have a stronger effect on the rate and incidence of covid-19 thank age 65+.
      1. So, summing it all together, let’s look at the chart that shows relative impacts of race, income and age 65+. Counties with high and low covid death rates have almost the same distribution of income and age 65+, though there is a slight difference for age 65+. Counties with lower covid deaths, have a slightly more chance of having less people 65+. For race (%non-white), the counties with higher proportion of non-white population are almost trice more likely to have higher covid deaths.  Race therefore is the most important determinant of covid deaths in New Jersey at the county level. However, unlike previously anticipated, income play a less important role. 
+
+
+
 
 ## 4. RECOMMENDATIONS AND CONCLUSIONS
 * The more vulnerable population is minorities, in this case, Blacks and Hispanics; this narrative is similar to the general trend of covid-19 deaths.
