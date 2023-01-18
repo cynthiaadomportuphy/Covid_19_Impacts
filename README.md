@@ -103,7 +103,8 @@ I was interested in knowing how the rate of the Covid-19 pandemic differed acros
 
 
 
-![Dashboard 1 (6) (1)](https://user-images.githubusercontent.com/121705109/213235602-2f2f1713-f54b-4930-adca-355fc46e55f5.png)
+
+![Dashboard 1 (6) (2)](https://user-images.githubusercontent.com/121705109/213236603-7fb840c1-bcb2-4513-a6a4-e085dbf19d3e.png)
 
 
 Thank you!
