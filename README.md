@@ -43,7 +43,7 @@ I was interested in knowing how the rate of the Covid-19 pandemic differed acros
 
 * Yes, the rate of death resulting from other diseases is different from the rate of covid-19 related deaths across New Jersey counties. 
 
-1. I found that indeed, there is differences between death from covid-19 and death from all other sources, however this was true for only some counties. For the other    counties, the differences were subtle.
+         1. I found that indeed, there is differences between death from covid-19 and death from all other sources, however this was true for only some counties. For               the other counties, the differences were subtle.
 
 
 
